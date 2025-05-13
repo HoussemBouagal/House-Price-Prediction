@@ -61,13 +61,13 @@ Ensure you have Python 3.8 or later installed.
 ## 📸 Screenshots
 
 ### 📊 Feature Importance (XGBoost)
-![Feature Importance](screens/feature_importance.png)
+![Feature Importance](screenshots/feature_importance.png)
 
 ### 📉 Residual Plot
-![Residual Plot](screens/residual_plot.png)
+![Residual Plot](screenshots/residual_plot.png)
 
 ### 📚 Learning Curve
-![Learning Curve](screens/learning_curve.png)
+![Learning Curve](screenshots/learning_curve.png)
 
 ## 🏁 Final Submission
 
