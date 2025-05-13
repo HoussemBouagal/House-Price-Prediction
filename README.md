@@ -58,11 +58,16 @@ Ensure you have Python 3.8 or later installed.
 6. **Submission File Generation**
 7. **Model Saving & Loading for Reuse**
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-| Feature Importance              | Residual Plot                   | Learning Curve                |
-|--------------------------------|----------------------------------|-------------------------------|
-| ![importance](screenshots/importance.png) | ![residual](screenshots/residual.png) | ![learning_curve](screenshots/learning_curve.png) |
+### 📊 Feature Importance (XGBoost)
+![Feature Importance](screens/feature_importance.png)
+
+### 📉 Residual Plot
+![Residual Plot](screens/residual_plot.png)
+
+### 📚 Learning Curve
+![Learning Curve](screens/learning_curve.png)
 
 ## 🏁 Final Submission
 
