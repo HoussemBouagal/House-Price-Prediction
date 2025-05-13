@@ -11,7 +11,7 @@ We built a machine learning pipeline to process data, train models, evaluate per
 
 - **Lasso Regression**
 - **Random Forest Regressor**
-- **XGBoost Regressor** ✅ Best Model
+- **XGBoost Regressor** ✅ Best Performance
 
 ## 📈 Results
 
@@ -79,16 +79,22 @@ The final predictions were submitted on Kaggle and scored a **Public Score: 0.13
 ```
 project-root/
 │
+├── dataset                 # Folder dataset
 ├── train.py                 # Main training and evaluation script
 ├── submission.csv           # Final predictions for Kaggle
 ├── house_prediction_model.pkl  # Trained model file
 ├── requirements.txt         # Required Python packages
-├── screenshots/             # Folder for plots (optional)
+├── screenshots/             # Folder for plots 
 │   ├── importance.png
 │   ├── residual.png
 │   └── learning_curve.png
 └── README.md                # Project description
 ```
+
+## 🏆 Kaggle Submission
+
+- A public score of **0.13012** was achieved using the XGBoost model.
+- Earned the **Getting Started Competitor** badge on Kaggle ✅
 
 ## 👨‍💻 Author
 
