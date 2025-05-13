@@ -79,8 +79,6 @@ The final predictions were submitted on Kaggle and scored a **Public Score: 0.13
 ```
 project-root/
 │
-├── dataset                 # Folder dataset
-├── train.py                 # Main training and evaluation script
 ├── submission.csv           # Final predictions for Kaggle
 ├── house_prediction_model.pkl  # Trained model file
 ├── requirements.txt         # Required Python packages
