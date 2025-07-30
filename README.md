@@ -77,7 +77,7 @@ The final predictions were submitted on Kaggle and scored a **Public Score: 0.13
 ## 📂 Directory Structure
 
 ```
-project-root/
+ House-Price-Prediction/
 │
 ├── submission.csv           # Final predictions for Kaggle
 ├── house_prediction_model.pkl  # Trained model file
